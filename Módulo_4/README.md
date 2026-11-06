@@ -59,4 +59,4 @@ Se comparó la superficie cubierta por nieve en el sector cordillerano de Mendoz
 La cobertura de nieve de 2026 fue un 25,6 % mayor. Coincide con la nevada histórica de julio de 2026 en Malargüe ([Los Andes](https://www.losandes.com.ar/)).
 🌐 Mapa Web Interactivo
 
-👉 [Ver Mapa Interactivo del Valle de las Lágrimas](./index.html)
+👉 [Ver Mapa Interactivo del Valle de las Lágrimas](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/M%C3%B3dulo_4/index.html)

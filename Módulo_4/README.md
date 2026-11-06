@@ -61,3 +61,9 @@ La cobertura de nieve de 2026 fue un 25,6 % mayor. Coincide con la nevada histó
 🌐 **Mapa Web Interactivo**
 
 👉 [Ver Mapa Interactivo del Valle de las Lágrimas](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/M%C3%B3dulo_4/qgis2web_2026_11_06-17_19_33_593044/index.html)
+
+
+### 📥 Descargas
+
+* [Descarga aquí el paquete de la Actividad 1 (.zip)](./qgis2web_2026_11_06-15_16_09_364076.zip)
+* [Descarga aquí el paquete de la Actividad 2 (.zip)](./qgis2web_2026_11_06-17_19_33_593044.zip)

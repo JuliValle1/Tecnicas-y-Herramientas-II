@@ -36,3 +36,28 @@ Las plantas empacadoras de Guaymallén y Maipú están a menos de 4 km entre sí
 🌐 Mapa Web Interactivo
 
 👉 [Ver Mapa Interactivo de Fábricas Conserveras de Mendoza](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/M%C3%B3dulo_4/qgis2web_2026_11_06-15_16_09_364076/index.html)
+
+## Actividad 2: Nieve en el Valle de las Lágrimas
+
+Se comparó la superficie cubierta por nieve en el sector cordillerano de Mendoza que incluye el **Valle de las Lágrimas** (Malargüe), en dos fechas de la misma época del año: **24/10/2024** y **27/10/2026**.
+
+### Metodología
+
+1. **Imágenes ráster:** dos GeoTIFF descargados de NASA Worldview[cite: 20].
+2. **Proyección:** se pasó de EPSG:4326 (grados) a **EPSG:32719 (UTM 19S, metros)** para medir las áreas sin distorsión.
+3. **Vectorización:** se digitalizaron las masas de nieve de cada fecha en dos capas, `vieja_poligono` y `actual_poligono`.
+4. **Cálculo de superficies:** con la Calculadora de Campos, `$area / 10000`, para obtener hectáreas.
+
+### Resultados
+
+| Fecha | Superficie nevada (ha) |
+| --- | --- |
+| 24/10/2024 | 2.916.618,21 |
+| 27/10/2026 | 3.662.147,07 |
+| **Variación** | **+745.528,86 ha (+25,6 %)** |
+
+La cobertura de nieve de 2026 fue un 25,6 % mayor. Coincide con la nevada histórica de julio de 2026 en Malargüe ([Los Andes](https://www.losandes.com.ar/)).
+
+🌐 Mapa Web Interactivo
+
+👉 [Ver Mapa Interactivo del Valle de las Lágrimas](./Módulo_4/qgis2web_actividad2/index.html)

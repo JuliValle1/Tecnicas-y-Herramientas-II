@@ -33,8 +33,6 @@ Las plantas empacadoras de Guaymallén y Maipú están a menos de 4 km entre sí
 
 *Empleados y capacidad son valores estimados con fines didácticos.*
 
-### 🌐 Mapa Web Interactivo
+🌐 Mapa Web Interactivo
 
-👉 [Ver Mapa Interactivo de Fábricas Conserveras de Mendoza](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/qgis2web_2026_11_06-15_16_09_364076/index.html)
-
-
+👉 [Ver Mapa Interactivo de Fábricas Conserveras de Mendoza](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/M%C3%B3dulo_4/qgis2web_2026_11_06-15_16_09_364076/index.html)

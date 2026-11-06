@@ -18,7 +18,7 @@ A través de **Vensim PLE**, se formularon las ecuaciones del modelo y se analiz
 
 ## Archivos del Proyecto
 
-📄 [Ver Informe Técnico Completo (PDF)](./Informe_Tecnico.pdf)
+📄 [Ver Informe Técnico Completo (PDF)](./Informe_Modulo_5_Dinamica_de_Sistemas.pdf)
 
 🌐 [Abrir Simulación Interactiva – Dinámica de Sistemas](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/M%C3%B3dulo_5/index.html)
 

@@ -19,7 +19,7 @@ La propuesta permite auditar la distribución territorial del entramado industri
 
 Para acceder a la visualización dinámica del mapa interactivo, ingresa mediante el siguiente enlace:
 
-👉 [Acceder al Mapa Interactivo de Parques Industriales]()
+👉 [Acceder al Mapa Interactivo de Parques Industriales](file:///C:/Users/julie/AppData/Local/Temp/qgis2web/qgis2web_2026_11_06-11_23_48_286157/index.html)
 ## Contenido de la Actividad 2
 
 ### Resumen de la Actividad

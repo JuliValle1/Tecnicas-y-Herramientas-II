@@ -1,17 +1,17 @@
-# Módulo 2: Asistente de Redacción con IA para planes y proyectos.
+# Módulo 2: Asistente de Redacción con IA para la Gestión de Proyectos
 
-## Descripción del Proyecto
+## Descripción del Trabajo
 
-En este módulo se profundiza en la integración de Modelos de Lenguaje de Gran Escala (LLM) —utilizando **Claude** como asistente de redacción— para la estructuración, síntesis y redacción profesional de informes técnicos y planes ejecutivos.
+En esta unidad se aborda la utilización de Modelos de Lenguaje de Gran Escala (LLM) —empleando **Claude** como plataforma de soporte editorial— para la formulación, síntesis y estructuración formal de documentación técnica y propuestas ejecutivas.
 
-El objetivo principal es desarrollar competencias en el uso asistido de Inteligencia Artificial Generativa aplicada a la ingeniería industrial. A través de este módulo, se ejercita la formulación efectiva de *prompts*, el refinamiento de estilo, la curaduría crítica de textos complejos y la optimización de tiempos en la elaboración de reportes institucionales, garantizando precisión técnica y cohesión narrativa.
+El propósito central radica en desarrollar habilidades clave en la aplicación de Inteligencia Artificial Generativa dentro del campo de la ingeniería industrial. A lo largo del módulo, se ejercita el diseño estratégico de *prompts*, el perfeccionamiento del tono comunicacional, la revisión crítica de informes complejos y el aumento de la eficiencia operativa en la producción de reportes de nivel institucional, velando siempre por la rigurosidad técnica y la continuidad del relato.
 
-## Contenido del Informe
+## Síntesis del Reporte
 
-Como aplicación práctica, se desarrolló la redacción del **Informe Post-JoSEII 2026 - Delegación Mendoza (UNCuyo)**, un reporte institucional exhaustivo que recopila los resultados de la 44ª edición de las jornadas.
+Como caso de estudio aplicado, se llevó a cabo la elaboración del **Informe Post-JoSEII 2026 - Sede Mendoza (UNCuyo)**, un documento integral que resume el desarrollo y las conclusiones de la 44.ª edición del encuentro.
 
-## 📥 Descargas
+## 📥 Enlaces de Acceso
 
-El archivo puede ser descargado directamente mediante el siguientes atajo:
+El documento en formato digital se encuentra disponible para su descarga en el siguiente enlace:
 
 [Descarga aquí el informe en PDF](nombre_de_tu_archivo.pdf)

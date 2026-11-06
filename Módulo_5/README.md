@@ -22,4 +22,4 @@ A través de **Vensim PLE**, se formularon las ecuaciones del modelo y se analiz
 
 🌐 [Abrir Simulación Interactiva – Dinámica de Sistemas](https://julivalle1.github.io/Tecnicas-y-Herramientas-II/M%C3%B3dulo_5/index.html)
 
-📦 [Descargar Proyecto Completo – Módulo 5 (ZIP)](./Modulo_5.zip)
+📦 [Descargar Proyecto Completo – Módulo 5 (ZIP)](./Modulo_5_Entrega_Completa_GitHub.zip)

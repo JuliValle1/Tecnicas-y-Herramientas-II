@@ -2,24 +2,24 @@
 
 ## Resumen del Proyecto
 
-En este módulo se trabajó en el procesamiento y manejo de datos alfanuméricos y geográficos a través de Sistemas de Información Geográfica (SIG) en **QGIS**, junto con la integración de consultas espaciales[cite: 18].
+En este módulo se trabajó en el procesamiento y manejo de datos alfanuméricos y geográficos a través de Sistemas de Información Geográfica (SIG) en **QGIS**, junto con la integración de consultas espaciales.
 
-El objetivo central es brindar al perfil de ingeniería industrial herramientas avanzadas de ingeniería de datos y análisis territorial para optimizar la toma de decisiones logísticas y de localización[cite: 18].
+El objetivo central es brindar al perfil de ingeniería industrial herramientas avanzadas de ingeniería de datos y análisis territorial para optimizar la toma de decisiones logísticas y de localización.
 
 ## Desarrollo de la Actividad 1
 
-La propuesta permite auditar la distribución territorial del entramado industrial en Mendoza, examinando variables críticas como el área total, la absorción de mano de obra y los niveles de impacto ambiental de los sectores y parques industriales regionales[cite: 18].
+La propuesta permite auditar la distribución territorial del entramado industrial en Mendoza, examinando variables críticas como el área total, la absorción de mano de obra y los niveles de impacto ambiental de los sectores y parques industriales regionales.
 
-1. **Procesamiento Vectorial y Raster:** Combinación de capas puntuales (geolocalización de predios) y polígonos (límites jurisdiccionales y polígonos industriales en `.shp`), complementado con la lectura de capas raster[cite: 18].
-2. **Gestión y Edición de Tablas de Atributos:** Activación de edición para digitalizar parcelas, corregir geometrías y poblar las tablas con indicadores de área, empleo generado e impacto[cite: 18].
-3. **Modelado Espacial Avanzado:** Creación de diagramas de Voronoi y redes de Delaunay para diagnosticar patrones de cobertura, proximidad y articulación espacial entre los nodos industriales[cite: 18].
-4. **Publicación Web Georreferenciada:** Empleo del complemento `qgis2web` para exportar la visualización en formato HTML e interactivo (OpenLayers), permitiendo alternar capas desde el navegador[cite: 18].
+1. **Procesamiento Vectorial y Raster:** Combinación de capas puntuales (geolocalización de predios) y polígonos (límites jurisdiccionales y polígonos industriales en `.shp`), complementado con la lectura de capas raster.
+2. **Gestión y Edición de Tablas de Atributos:** Activación de edición para digitalizar parcelas, corregir geometrías y poblar las tablas con indicadores de área, empleo generado e impacto.
+3. **Modelado Espacial Avanzado:** Creación de diagramas de Voronoi y redes de Delaunay para diagnosticar patrones de cobertura, proximidad y articulación espacial entre los nodos industriales.
+4. **Publicación Web Georreferenciada:** Empleo del complemento `qgis2web` para exportar la visualización en formato HTML e interactivo (OpenLayers), permitiendo alternar capas desde el navegador.
 
 ## 🌐 Geoportal Web
 
 Para acceder a la visualización dinámica del mapa interactivo, ingresa mediante el siguiente enlace:
 
-👉 [Acceder al Mapa Interactivo de Parques Industriales](nombre_de_tu_archivo.html)
+👉 [Acceder al Mapa Interactivo de Parques Industriales]()
 ## Contenido de la Actividad 2
 
 ### Resumen de la Actividad

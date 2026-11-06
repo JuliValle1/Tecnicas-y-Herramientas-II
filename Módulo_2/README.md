@@ -1,17 +1,19 @@
 # Módulo 2: Asistente de Redacción con IA para la Gestión de Proyectos
 
-## Descripción del Trabajo
+# Descripción del Proyecto
 
-En esta unidad se aborda la utilización de Modelos de Lenguaje de Gran Escala (LLM) —empleando **Claude** como plataforma de soporte editorial— para la formulación, síntesis y estructuración formal de documentación técnica y propuestas ejecutivas.
+En este módulo se profundizó en la aplicación de herramientas de Inteligencia Artificial Generativa, utilizando **ChatGPT, Gemini y NotebookLM (Gemini)** como asistentes para la investigación, organización, análisis y redacción de documentación técnica vinculada a proyectos de Ingeniería Industrial[cite: 17].
 
-El propósito central radica en desarrollar habilidades clave en la aplicación de Inteligencia Artificial Generativa dentro del campo de la ingeniería industrial. A lo largo del módulo, se ejercita el diseño estratégico de *prompts*, el perfeccionamiento del tono comunicacional, la revisión crítica de informes complejos y el aumento de la eficiencia operativa en la producción de reportes de nivel institucional, velando siempre por la rigurosidad técnica y la continuidad del relato.
+El objetivo principal fue desarrollar competencias en el uso estratégico de estas herramientas, mediante la formulación de *prompts*, la búsqueda y síntesis de información científica, la revisión crítica de contenidos y la optimización de la redacción académica, manteniendo la coherencia, precisión técnica y fundamentación de la información presentada[cite: 17].
 
-## Síntesis del Reporte
+# Contenido del Informe
 
-Como caso de estudio aplicado, se llevó a cabo la elaboración del **Informe Post-JoSEII 2026 - Sede Mendoza (UNCuyo)**, un documento integral que resume el desarrollo y las conclusiones de la 44.ª edición del encuentro.
+Como aplicación práctica, se trabajó en la elaboración del **Estudio de Prefactibilidad para la Producción de Aceite y Harina de Pepita de Uva**, correspondiente al Trabajo Final de Carrera de Ingeniería Industrial de la Universidad Nacional de Cuyo[cite: 17].
 
-## 📥 Enlaces de Acceso
+El proyecto propone aprovechar las semillas provenientes de los subproductos de la industria vitivinícola mendocina para obtener dos productos de valor agregado: aceite mediante prensado en frío y harina a partir del material sólido remanente[cite: 17].
 
-El documento en formato digital se encuentra disponible para su descarga en el siguiente enlace:
+Las herramientas de IA se utilizaron como apoyo para recopilar antecedentes científicos, analizar información técnica, estructurar los capítulos del informe y desarrollar aspectos como el planteamiento del problema, la justificación, los objetivos y el estudio preliminar del mercado[cite: 17].
 
-[Descarga aquí el informe en PDF](nombre_de_tu_archivo.pdf)
+**El propósito fue integrar la Inteligencia Artificial al proceso de elaboración de un proyecto de ingeniería**, fortaleciendo la capacidad de investigación, el análisis crítico y la comunicación técnica, bajo un enfoque de sostenibilidad, economía circular y aprovechamiento de recursos regionales[cite: 17].
+
+📄 [Ver informe: Aceite y Harina de Pepita de Uva](nombre_de_tu_archivo.pdf)

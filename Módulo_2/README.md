@@ -16,4 +16,4 @@ Las herramientas de IA se utilizaron como apoyo para recopilar antecedentes cien
 
 **El propósito fue integrar la Inteligencia Artificial al proceso de elaboración de un proyecto de ingeniería**, fortaleciendo la capacidad de investigación, el análisis crítico y la comunicación técnica, bajo un enfoque de sostenibilidad, economía circular y aprovechamiento de recursos regionales[cite: 17].
 
-📄 [Ver informe: Aceite y Harina de Pepita de Uva](nombre_de_tu_archivo.pdf)
+📄 [Ver informe: Aceite y Harina de Pepita de Uva](Modulo2.pdf)

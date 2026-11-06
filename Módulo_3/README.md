@@ -18,4 +18,4 @@ El estudio presentado en este informe se articula en dos ejes centrales:
 
 El archivo en formato digital se encuentra disponible para su descarga en el siguiente atajo:
 
-[Descarga aquí el informe en PDF](nombre_de_tu_archivo.pdf)
+[Descarga aquí el informe en PDF](Modulo3.pdf)
